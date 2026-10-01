@@ -2,6 +2,8 @@
 
 Unless otherwise specified, parts were printed on a Bambu A1 Mini using the `0.20mm Standard @BBL A1M` preset, or modifications of that preset.
 
+<img src="../docs/img/alethiometer_gears.png" alt="Finished alethiometer" height="300">
+
 ## Filaments
 
 For the following profiles, I changed it in Bambu Studio; your slicer may vary. Always check the labeling on the actual filament spool or package to confirm that the settings sense.
