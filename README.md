@@ -1,6 +1,10 @@
 # Lyra's Alethiometer
 
-<img src="docs/img/alethiometer.png" alt="Finished alethiometer" height="300"> <img src="docs/img/alethiometer_movement.gif" alt="Alethiometer needle movement" height="300">
+<img src="docs/img/alethiometer.png" alt="Finished alethiometer" height="400"> 
+
+https://github.com/user-attachments/assets/59460df4-214a-49e5-ad2c-306fc8ed92e8
+
+
 
 An alethiometer is a divination device from the book series _His Dark Materials_ by Philip Pullman. This version is based on the one in [this YouTube video](https://www.youtube.com/watch?v=rpL9xWBeznU) which was created by Jamie of [Myth Made](https://www.youtube.com/@themythmade). That replica was in turn based on the prop from the BBC TV show adaptation of _His Dark Materials_.
 
